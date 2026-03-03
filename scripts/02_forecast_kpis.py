@@ -1,0 +1,2 @@
+
+print("Forecasting pipeline placeholder")
